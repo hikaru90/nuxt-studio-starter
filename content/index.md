@@ -2,7 +2,7 @@
 
 This is the main page displaying Markdown located at [content/index.md](https://github.com/larbish/starter/blob/content/content/index.md).
 
-Move to [about](/about) page.
+Move to [about](/about) page. ha
 
 ## Manage your Contents
 
